@@ -12,6 +12,8 @@ Configure a collection (folder) on your computer that contains the files your LL
 At the top right, click the database icon and select which collection you want your LLM to know about during your chat session.
 Turn up a chat session with any LLM. 
 
+##Youtube Demo -
+https://www.youtube.com/watch?v=6vhYA8Ecjcw
 
 
 
